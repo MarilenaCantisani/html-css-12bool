@@ -17,4 +17,15 @@
     max-width: 100%;
 }
 
+/* FLEX CONTAINER */
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+/* COLUMNS */
+.col {
+    flex-grow: 1;
+}
 
